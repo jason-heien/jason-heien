@@ -1,4 +1,4 @@
-### Hi there 👋
+Senior Web Developer and Graphic Designer with an engineer’s thought process, active imagination, and military structure, using leadership skills to creatively solve problems, develop solutions, market and promote growth in business. As a well-rounded non-aggressive, yet competitive, mix of left and right brain.
 
 <!--
 **jason-heien/jason-heien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
