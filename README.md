@@ -2,6 +2,8 @@ Senior Web Developer and Graphic Designer with an engineer’s thought process, 
 
 I specialize in WordPress Website Development | SEO | Graphic Design
 
+You can visit my website at <a href="https://mindchip.net" title="MindChip Industries | Detroit WordPress" alt="MindChip Industries | Detroit WordPress">MindChip Industries</a>
+
 <!--
 **jason-heien/jason-heien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
