@@ -4,7 +4,7 @@ I specialize in WordPress Website Development | SEO | Graphic Design
 
 You can visit my website at <a href="https://mindchip.net" title="MindChip Industries | Detroit WordPress" alt="MindChip Industries | Detroit WordPress">MindChip Industries</a>
 
-I am the developer of the MindChat AI Chatbot WordPress Plugin
+I am the developer of the <a href="https://mindchip.net/downloads/chatbot-pro/" title="MindChip Industries | MindChat AI Chatbot WordPress Plugin" alt="MindChip Industries | MindChat AI Chatbot WordPress Plugin"> MindChat AI Chatbot WordPress Plugin</a>
 
 2025 3rd Place World Champion Styled Stache/Natural Beard under 15cm
 
